@@ -1,2 +1,9 @@
 pygis==0.4.0
-geospatial==0.6.1
+leafmap==0.10.5
+xarray==2022.6.0
+geemap==0.16.9
+arcgis==2.0.1
+forestatrisk==1.1
+earthengine-api 0.1.323
+
+
