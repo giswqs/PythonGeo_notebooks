@@ -4,6 +4,6 @@ xarray==2022.6.0
 geemap==0.16.9
 arcgis==2.0.1
 forestatrisk==1.1
-earthengine-api 0.1.323
-
-
+earthengine-api==0.1.323
+numpy==1.23.3
+gdal==3.5.1
